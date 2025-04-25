@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Recipe-Book-APP
+A full-stack web application built with Next.js, MongoDB, and NextAuth.js, allowing users to browse, create, and manage their favorite recipes. The app features AI-powered recipe suggestions to help users quickly find new meal ideas based on ingredients or preferences.
+>>>>>>> a99035f1d3767bc69ca35d83fd0ed13d0e46f884
